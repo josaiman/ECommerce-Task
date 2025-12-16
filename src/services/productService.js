@@ -37,15 +37,6 @@ const INITIAL_PRODUCTS = [
     image:
       "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=1000&auto=format&fit=crop",
   },
-  {
-    id: 5,
-    name: "Mechanical Keyboard",
-    price: 7499,
-    category: "Electronics",
-    description: "RGB backlit, cherry mx red switches for gaming.",
-    image:
-      "https://images.unsplash.com/photo-1587829741301-dc798b91a603?q=80&w=1000&auto=format&fit=crop",
-  },
 ];
 
 if (!localStorage.getItem(PRODUCTS_KEY)) {
