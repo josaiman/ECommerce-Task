@@ -1,4 +1,4 @@
-# E-Commerce Frontend (Final Polish)
+# E-Commerce Frontend
 
 ## Features
 - Product listing & cart
@@ -10,4 +10,4 @@
 - Responsive Tailwind UI
 
 ## Notes
-Frontend-only implementation with mocked data and simulated JWT authentication due to EOD constraint.
+Frontend-only implementation with mocked data and simulated JWT authentication.
